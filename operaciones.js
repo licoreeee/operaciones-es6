@@ -27,6 +27,8 @@ function division(a, b) {
 const pi = 3.1416;
 
 // Exportamos las dos entidades.
+const pi = 3.1416;
+
 export {division, pi}
 
 // Exportamos la función.
